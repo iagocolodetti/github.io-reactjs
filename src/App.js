@@ -1,11 +1,9 @@
-import React from 'react';
-
-import _Routes from './routes';
+import MyRoutes from './routes';
 
 function App() {
   return (
     <div className="container-fluid">
-      <_Routes />
+      <MyRoutes />
     </div>
   );
 }

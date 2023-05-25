@@ -11,7 +11,7 @@ import CifraRailFence from './pages/criptografia/cifra-rail-fence';
 import CifraMatematica from './pages/criptografia/cifra-matematica';
 import JogoDaVelha from './pages/jogo-da-velha';
 
-export default function _Routes() {
+export default function MyRoutes() {
     return (
         <BrowserRouter>
             <Routes>
